@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Do I Am Cake - Dev",
-  "version": "1.0.0",
+  "name": "Do I Am Cake",
+  "version": "3.1.0",
   "author": "Tamaized",
   "files": [
     {
@@ -25,13 +25,13 @@
       "required": true
     },
     {
-      "projectID": 267602,
-      "fileID": 2832564,
+      "projectID": 314904,
+      "fileID": 2819669,
       "required": true
     },
     {
-      "projectID": 314904,
-      "fileID": 2819669,
+      "projectID": 267602,
+      "fileID": 2832564,
       "required": true
     },
     {
@@ -65,13 +65,13 @@
       "required": true
     },
     {
-      "projectID": 74924,
-      "fileID": 2713386,
+      "projectID": 228756,
+      "fileID": 2747935,
       "required": true
     },
     {
-      "projectID": 228756,
-      "fileID": 2747935,
+      "projectID": 74924,
+      "fileID": 2713386,
       "required": true
     },
     {
@@ -125,13 +125,13 @@
       "required": true
     },
     {
-      "projectID": 74072,
-      "fileID": 2809406,
+      "projectID": 238222,
+      "fileID": 2803400,
       "required": true
     },
     {
-      "projectID": 238222,
-      "fileID": 2803400,
+      "projectID": 74072,
+      "fileID": 2809406,
       "required": true
     },
     {
@@ -165,13 +165,13 @@
       "required": true
     },
     {
-      "projectID": 223628,
-      "fileID": 2629023,
+      "projectID": 225839,
+      "fileID": 2469364,
       "required": true
     },
     {
-      "projectID": 225839,
-      "fileID": 2469364,
+      "projectID": 223628,
+      "fileID": 2629023,
       "required": true
     },
     {
@@ -195,6 +195,11 @@
       "required": true
     },
     {
+      "projectID": 237167,
+      "fileID": 2832410,
+      "required": true
+    },
+    {
       "projectID": 225643,
       "fileID": 2846950,
       "required": true
@@ -202,11 +207,6 @@
     {
       "projectID": 59751,
       "fileID": 2684780,
-      "required": true
-    },
-    {
-      "projectID": 237167,
-      "fileID": 2832410,
       "required": true
     },
     {
