@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Do I Am Cake - Dev",
-  "version": "Dev",
+  "version": "1.0.0",
   "author": "Tamaized",
   "files": [
     {
@@ -112,6 +112,11 @@
     {
       "projectID": 279420,
       "fileID": 2827427,
+      "required": true
+    },
+    {
+      "projectID": 260327,
+      "fileID": 2789626,
       "required": true
     },
     {
