@@ -11,12 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Do I Am Cake - Dev",
-  "version": "3.1.0-dev",
+  "version": "Dev",
   "author": "Tamaized",
   "files": [
     {
       "projectID": 232758,
-      "fileID": 2811241,
+      "fileID": 2831241,
       "required": true
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 2731543,
+      "fileID": 2809406,
       "required": true
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "projectID": 278494,
-      "fileID": 2809906,
+      "fileID": 2845668,
       "required": true
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "projectID": 272671,
-      "fileID": 2727094,
+      "fileID": 2843439,
       "required": true
     },
     {
@@ -176,7 +176,7 @@
     },
     {
       "projectID": 223094,
-      "fileID": 2670367,
+      "fileID": 2848933,
       "required": true
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2823531,
+      "fileID": 2832410,
       "required": true
     },
     {
       "projectID": 237102,
-      "fileID": 2826822,
+      "fileID": 2835289,
       "required": true
     },
     {
