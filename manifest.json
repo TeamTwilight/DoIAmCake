@@ -10,8 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Do I am Cake",
-  "version": "1.18",
+  "name": "Do I Am Cake",
   "author": "",
   "files": [
     {
@@ -27,6 +26,11 @@
     {
       "projectID": 267602,
       "fileID": 3737369,
+      "required": true
+    },
+    {
+      "projectID": 628539,
+      "fileID": 3811744,
       "required": true
     },
     {
@@ -121,7 +125,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3812431,
+      "fileID": 3815328,
       "required": true
     },
     {
@@ -150,6 +154,11 @@
       "required": true
     },
     {
+      "projectID": 445600,
+      "fileID": 3814480,
+      "required": true
+    },
+    {
       "projectID": 398521,
       "fileID": 3784851,
       "required": true
@@ -162,6 +171,11 @@
     {
       "projectID": 531761,
       "fileID": 3767671,
+      "required": true
+    },
+    {
+      "projectID": 306286,
+      "fileID": 3814471,
       "required": true
     },
     {
