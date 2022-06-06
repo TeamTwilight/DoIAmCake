@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Do I Am Cake",
+  "name": "Do I Am Cake DEV",
   "author": "",
   "files": [
     {
@@ -24,13 +24,18 @@
       "required": true
     },
     {
+      "projectID": 410811,
+      "fileID": 3773058,
+      "required": true
+    },
+    {
       "projectID": 267602,
       "fileID": 3737369,
       "required": true
     },
     {
       "projectID": 628539,
-      "fileID": 3811744,
+      "fileID": 3818477,
       "required": true
     },
     {
@@ -80,7 +85,7 @@
     },
     {
       "projectID": 566563,
-      "fileID": 3807862,
+      "fileID": 3816078,
       "required": true
     },
     {
@@ -125,7 +130,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3815328,
+      "fileID": 3816393,
       "required": true
     },
     {
@@ -150,7 +155,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3800501,
+      "fileID": 3816794,
       "required": true
     },
     {
@@ -200,17 +205,17 @@
     },
     {
       "projectID": 227639,
-      "fileID": 3812675,
-      "required": true
-    },
-    {
-      "projectID": 272515,
-      "fileID": 3749537,
+      "fileID": 3818688,
       "required": true
     },
     {
       "projectID": 252848,
       "fileID": 3684917,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3749537,
       "required": true
     },
     {
@@ -221,6 +226,11 @@
     {
       "projectID": 228756,
       "fileID": 3795374,
+      "required": true
+    },
+    {
+      "projectID": 314905,
+      "fileID": 3802692,
       "required": true
     },
     {
@@ -249,13 +259,13 @@
       "required": true
     },
     {
-      "projectID": 465066,
-      "fileID": 3678612,
+      "projectID": 225738,
+      "fileID": 3641681,
       "required": true
     },
     {
-      "projectID": 225738,
-      "fileID": 3641681,
+      "projectID": 465066,
+      "fileID": 3678612,
       "required": true
     },
     {
@@ -274,13 +284,13 @@
       "required": true
     },
     {
-      "projectID": 316881,
-      "fileID": 3568547,
+      "projectID": 546237,
+      "fileID": 3738168,
       "required": true
     },
     {
-      "projectID": 546237,
-      "fileID": 3738168,
+      "projectID": 316881,
+      "fileID": 3568547,
       "required": true
     },
     {
@@ -290,7 +300,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 3811698,
+      "fileID": 3818470,
       "required": true
     },
     {
