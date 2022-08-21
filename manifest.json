@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "forge-43.1.1",
+        "id": "forge-43.1.2",
         "primary": true
       }
     ]
