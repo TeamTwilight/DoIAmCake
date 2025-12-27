@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Do I am cake",
-  "version": "",
+  "version": "5.1.0",
   "author": "",
   "files": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "projectID": 227639,
-      "fileID": 7371728,
+      "fileID": 7382493,
       "required": true,
       "isLocked": false
     },
@@ -82,7 +82,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 7340883,
+      "fileID": 7385410,
       "required": true,
       "isLocked": false
     },
