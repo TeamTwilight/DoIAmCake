@@ -3,7 +3,7 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.217",
+        "id": "neoforge-21.1.227",
         "primary": true
       }
     ]
@@ -63,6 +63,12 @@
       "isLocked": false
     },
     {
+      "projectID": 1312371,
+      "fileID": 7965090,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 279420,
       "fileID": 6264398,
       "required": true,
@@ -75,14 +81,14 @@
       "isLocked": false
     },
     {
-      "projectID": 272515,
-      "fileID": 5850587,
+      "projectID": 938917,
+      "fileID": 7583320,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 938917,
-      "fileID": 7583320,
+      "projectID": 272515,
+      "fileID": 5850587,
       "required": true,
       "isLocked": false
     },
@@ -207,14 +213,14 @@
       "isLocked": false
     },
     {
-      "projectID": 309927,
-      "fileID": 6529130,
+      "projectID": 855163,
+      "fileID": 5929193,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 855163,
-      "fileID": 5929193,
+      "projectID": 309927,
+      "fileID": 6529130,
       "required": true,
       "isLocked": false
     },
