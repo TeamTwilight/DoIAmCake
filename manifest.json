@@ -3,14 +3,14 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.227",
+        "id": "neoforge-21.1.219",
         "primary": true
       }
     ]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Do I am cake",
+  "name": "Do I am cake 6.0.2",
   "version": "",
   "author": "",
   "files": [
@@ -51,8 +51,20 @@
       "isLocked": false
     },
     {
+      "projectID": 342584,
+      "fileID": 8021351,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1492763,
       "fileID": 7907336,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 243707,
+      "fileID": 7951535,
       "required": true,
       "isLocked": false
     },
@@ -64,7 +76,7 @@
     },
     {
       "projectID": 1312371,
-      "fileID": 7965090,
+      "fileID": 8007005,
       "required": true,
       "isLocked": false
     },
@@ -93,8 +105,20 @@
       "isLocked": false
     },
     {
+      "projectID": 452834,
+      "fileID": 7508749,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 251730,
       "fileID": 7383510,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 411813,
+      "fileID": 6713334,
       "required": true,
       "isLocked": false
     },
@@ -112,7 +136,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 7943878,
+      "fileID": 8037440,
       "required": true,
       "isLocked": false
     },
@@ -177,8 +201,20 @@
       "isLocked": false
     },
     {
+      "projectID": 623764,
+      "fileID": 7766752,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 855821,
       "fileID": 7379191,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 419699,
+      "fileID": 5786327,
       "required": true,
       "isLocked": false
     },
@@ -190,7 +226,7 @@
     },
     {
       "projectID": 628539,
-      "fileID": 7929148,
+      "fileID": 8017083,
       "required": true,
       "isLocked": false
     },
@@ -208,7 +244,7 @@
     },
     {
       "projectID": 676721,
-      "fileID": 7964998,
+      "fileID": 8003941,
       "required": true,
       "isLocked": false
     },
