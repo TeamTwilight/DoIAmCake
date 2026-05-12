@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Do I am cake 6.0.2",
+  "name": "Do I am cake 6.0.3",
   "version": "",
   "author": "",
   "files": [
@@ -23,6 +23,12 @@
     {
       "projectID": 227639,
       "fileID": 7797302,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 412082,
+      "fileID": 8051628,
       "required": true,
       "isLocked": false
     },
@@ -136,7 +142,13 @@
     },
     {
       "projectID": 499980,
-      "fileID": 8037440,
+      "fileID": 8065893,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 439890,
+      "fileID": 7518252,
       "required": true,
       "isLocked": false
     },
@@ -257,6 +269,12 @@
     {
       "projectID": 309927,
       "fileID": 6529130,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 947914,
+      "fileID": 8046148,
       "required": true,
       "isLocked": false
     },
