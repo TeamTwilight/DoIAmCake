@@ -10,13 +10,13 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Do I am cake 6.0.5",
+  "name": "Do I am cake 6.0.6",
   "version": "",
-  "author": "Drullkus",
+  "author": "Tamaized",
   "files": [
     {
       "projectID": 251730,
-      "fileID": 8166987,
+      "fileID": 8175491,
       "required": true,
       "isLocked": false
     },
@@ -52,7 +52,7 @@
     },
     {
       "projectID": 1502992,
-      "fileID": 8164424,
+      "fileID": 8202593,
       "required": true,
       "isLocked": false
     },
@@ -75,20 +75,20 @@
       "isLocked": false
     },
     {
-      "projectID": 618298,
-      "fileID": 8145747,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 412082,
-      "fileID": 8120873,
+      "fileID": 8194573,
       "required": true,
       "isLocked": false
     },
     {
       "projectID": 225608,
       "fileID": 5830452,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 618298,
+      "fileID": 8201808,
       "required": true,
       "isLocked": false
     },
@@ -130,7 +130,7 @@
     },
     {
       "projectID": 646668,
-      "fileID": 8169551,
+      "fileID": 8175295,
       "required": true,
       "isLocked": false
     },
@@ -154,7 +154,7 @@
     },
     {
       "projectID": 619320,
-      "fileID": 8156420,
+      "fileID": 8203062,
       "required": true,
       "isLocked": false
     },
@@ -178,7 +178,13 @@
     },
     {
       "projectID": 439890,
-      "fileID": 8083378,
+      "fileID": 8188476,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1549100,
+      "fileID": 8132863,
       "required": true,
       "isLocked": false
     },
@@ -201,6 +207,12 @@
       "isLocked": false
     },
     {
+      "projectID": 328085,
+      "fileID": 7963363,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 623764,
       "fileID": 7766752,
       "required": true,
@@ -209,12 +221,6 @@
     {
       "projectID": 594709,
       "fileID": 5935753,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 328085,
-      "fileID": 7963363,
       "required": true,
       "isLocked": false
     },
@@ -286,7 +292,7 @@
     },
     {
       "projectID": 628539,
-      "fileID": 8017083,
+      "fileID": 8185452,
       "required": true,
       "isLocked": false
     },
@@ -316,7 +322,7 @@
     },
     {
       "projectID": 855414,
-      "fileID": 7907341,
+      "fileID": 8202148,
       "required": true,
       "isLocked": false
     },
