@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Do I Am Cake?",
-  "version": "6.0.11",
+  "version": "6.0.12",
   "author": "Drullkus",
   "overrides": "overrides",
   "files": [
@@ -175,6 +175,12 @@
     {
       "projectID": 388172,
       "fileID": 8350073,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 398521,
+      "fileID": 8083481,
       "required": true,
       "isLocked": false
     },
@@ -377,6 +383,24 @@
       "isLocked": false
     },
     {
+      "projectID": 817423,
+      "fileID": 8367232,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 852512,
+      "fileID": 8435635,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 854949,
+      "fileID": 8536618,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 855163,
       "fileID": 5929193,
       "required": true,
@@ -473,6 +497,12 @@
       "isLocked": false
     },
     {
+      "projectID": 1153374,
+      "fileID": 8346590,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1173950,
       "fileID": 8420861,
       "required": true,
@@ -517,6 +547,12 @@
     {
       "projectID": 1315611,
       "fileID": 7585673,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1320652,
+      "fileID": 6855148,
       "required": true,
       "isLocked": false
     },
