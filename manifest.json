@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Do I Am Cake?",
-  "version": "6.0.12",
+  "version": "6.0.13",
   "author": "Drullkus",
   "overrides": "overrides",
   "files": [
@@ -48,7 +48,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 8555356,
+      "fileID": 8622758,
       "required": true,
       "isLocked": false
     },
@@ -132,7 +132,7 @@
     },
     {
       "projectID": 324717,
-      "fileID": 7545219,
+      "fileID": 8591319,
       "required": true,
       "isLocked": false
     },
@@ -192,7 +192,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 8539821,
+      "fileID": 8638261,
       "required": true,
       "isLocked": false
     },
@@ -216,7 +216,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 8503096,
+      "fileID": 8650198,
       "required": true,
       "isLocked": false
     },
@@ -246,7 +246,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 8510630,
+      "fileID": 8608276,
       "required": true,
       "isLocked": false
     },
@@ -288,13 +288,13 @@
     },
     {
       "projectID": 618298,
-      "fileID": 8503041,
+      "fileID": 8643031,
       "required": true,
       "isLocked": false
     },
     {
       "projectID": 619320,
-      "fileID": 8503122,
+      "fileID": 8635485,
       "required": true,
       "isLocked": false
     },
@@ -312,7 +312,7 @@
     },
     {
       "projectID": 628539,
-      "fileID": 8509008,
+      "fileID": 8645700,
       "required": true,
       "isLocked": false
     },
@@ -582,7 +582,7 @@
     },
     {
       "projectID": 1502992,
-      "fileID": 8440776,
+      "fileID": 8628895,
       "required": true,
       "isLocked": false
     },
