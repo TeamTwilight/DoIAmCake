@@ -3,7 +3,7 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.238",
+        "id": "neoforge-21.1.247",
         "primary": true
       }
     ],
@@ -293,6 +293,12 @@
       "isLocked": false
     },
     {
+      "projectID": 551586,
+      "fileID": 8706841,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 570073,
       "fileID": 5973188,
       "required": true,
@@ -365,6 +371,12 @@
       "isLocked": false
     },
     {
+      "projectID": 662413,
+      "fileID": 7364962,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 670282,
       "fileID": 6056726,
       "required": true,
@@ -379,6 +391,12 @@
     {
       "projectID": 683319,
       "fileID": 6111474,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 688768,
+      "fileID": 8241347,
       "required": true,
       "isLocked": false
     },
@@ -479,6 +497,12 @@
       "isLocked": false
     },
     {
+      "projectID": 968456,
+      "fileID": 7186943,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 989797,
       "fileID": 7329038,
       "required": true,
@@ -487,6 +511,12 @@
     {
       "projectID": 997634,
       "fileID": 8075942,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1001614,
+      "fileID": 8345326,
       "required": true,
       "isLocked": false
     },
@@ -509,6 +539,12 @@
       "isLocked": false
     },
     {
+      "projectID": 1061749,
+      "fileID": 7766920,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1074338,
       "fileID": 7727898,
       "required": true,
@@ -521,14 +557,38 @@
       "isLocked": false
     },
     {
+      "projectID": 1106612,
+      "fileID": 8549320,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1108052,
       "fileID": 7502579,
       "required": true,
       "isLocked": false
     },
     {
+      "projectID": 1143065,
+      "fileID": 7469786,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1152836,
+      "fileID": 8227753,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1153374,
       "fileID": 8346590,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1171602,
+      "fileID": 8675568,
       "required": true,
       "isLocked": false
     },
@@ -581,8 +641,20 @@
       "isLocked": false
     },
     {
+      "projectID": 1299492,
+      "fileID": 8466924,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1312371,
       "fileID": 8673825,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1314084,
+      "fileID": 8123167,
       "required": true,
       "isLocked": false
     },
@@ -593,8 +665,26 @@
       "isLocked": false
     },
     {
+      "projectID": 1316458,
+      "fileID": 8059464,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1320652,
       "fileID": 6855148,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1357603,
+      "fileID": 8431589,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1365195,
+      "fileID": 7364871,
       "required": true,
       "isLocked": false
     },
@@ -619,6 +709,12 @@
     {
       "projectID": 1450885,
       "fileID": 8768955,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1450970,
+      "fileID": 8431671,
       "required": true,
       "isLocked": false
     },
@@ -649,6 +745,24 @@
     {
       "projectID": 1537945,
       "fileID": 8523257,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1559550,
+      "fileID": 8427886,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1571005,
+      "fileID": 8655331,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1578228,
+      "fileID": 8307052,
       "required": true,
       "isLocked": false
     },
