@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Do I Am Cake?",
-  "version": "6.0.14",
+  "version": "6.0.14.1",
   "author": "Drullkus",
   "overrides": "overrides",
   "files": [
@@ -649,12 +649,6 @@
     {
       "projectID": 1312371,
       "fileID": 8673825,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 1314084,
-      "fileID": 8123167,
       "required": true,
       "isLocked": false
     },
