@@ -13,7 +13,7 @@
   "manifestVersion": 1,
   "name": "Do I Am Cake?",
   "author": "Drullkus",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "overrides": "overrides",
   "files": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "projectID": 227639,
-      "fileID": 8848279,
+      "fileID": 9003337,
       "required": true,
       "isLocked": false
     },
@@ -60,7 +60,19 @@
     },
     {
       "projectID": 308702,
-      "fileID": 7808443,
+      "fileID": 8966434,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 324717,
+      "fileID": 8591528,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 341284,
+      "fileID": 5534317,
       "required": true,
       "isLocked": false
     },
@@ -96,7 +108,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 8850088,
+      "fileID": 8981394,
       "required": true,
       "isLocked": false
     },
